@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solichan1982.github.io/PURBALINGGA-EXHAUST/sitemap.xml
